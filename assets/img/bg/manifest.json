@@ -1,0 +1,16 @@
+{
+  "_comment": "Background options for the evening. First entry is the default. Drop a file in here and add it to this list — nothing else needs editing. Entries in _shared are offered after the event's own. The night's own photography leads: New York first, then last year's edition in Los Angeles.",
+  "makeexe-nyc": [
+    { "file": "midtown.jpg",   "label": "Midtown" },
+    { "file": "the-room.jpg",  "label": "The Room" },
+    { "file": "round-one.jpg", "label": "Round One" },
+    { "file": "the-floor.jpg", "label": "The Floor" },
+    { "file": "mezzanine.jpg", "label": "Mezzanine" }
+  ],
+  "_shared": [
+    { "file": "neutral-1.png", "label": "Ember" },
+    { "file": "neutral-2.png", "label": "Glow" },
+    { "file": "neutral-3.png", "label": "Onyx" }
+  ],
+  "default": []
+}

@@ -1,0 +1,8 @@
+{
+  "_comment": "Motion backgrounds. _shared is offered on the show. `poster` is a still used as the picker thumbnail — the clips themselves are never fetched to draw the list.",
+  "_shared": [
+    { "file": "light.mp4",     "label": "Light",     "poster": "poster-light.jpg" },
+    { "file": "particles.mp4", "label": "Particles", "poster": "poster-particles.jpg" },
+    { "file": "depth.mp4",     "label": "Depth",     "poster": "poster-depth.jpg" }
+  ]
+}

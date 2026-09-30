@@ -1,0 +1,8 @@
+# Not indexed on purpose. This is a single utility page whose only job is to
+# make a poster — indexed, it would compete in search with the invitation at
+# huge.ddxconference.com, which is where people should land.
+#
+# Nothing here is secret: delete this file and the noindex meta in index.html
+# if you ever want the tool findable.
+User-agent: *
+Disallow: /
